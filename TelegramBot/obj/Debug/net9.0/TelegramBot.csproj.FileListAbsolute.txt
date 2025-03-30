@@ -1,0 +1,17 @@
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.csproj.AssemblyReference.cache
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.AssemblyInfoInputs.cache
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.AssemblyInfo.cs
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.csproj.CoreCompileInputs.cache
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/TelegramBot
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/TelegramBot.deps.json
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/TelegramBot.runtimeconfig.json
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/TelegramBot.dll
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/TelegramBot.pdb
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/bin/Debug/net9.0/Telegram.Bot.dll
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/Telegram.C5E56D06.Up2Date
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.dll
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/refint/TelegramBot.dll
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.pdb
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/TelegramBot.genruntimeconfig.cache
+/Users/pnitkaa/Documents/nitka/tg_bot/TelegramBot/obj/Debug/net9.0/ref/TelegramBot.dll
